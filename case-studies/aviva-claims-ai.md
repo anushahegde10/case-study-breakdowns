@@ -1,14 +1,16 @@
 # 🧠 AI Case Study Analysis: Aviva Claims Transformation by McKinsey Breakdown
 
 🔗 **Source Article:**  
-[Aviva: Rewiring the insurance claims journey with AI — McKinsey](https://www.mckinsey.com/capabilities/tech-and-ai/how-we-help-clients/rewired-in-action/aviva-rewiring-the-insurance-claims-journey-with-ai)
+[Aviva: Rewiring the insurance claims journey with AI - McKinsey](https://www.mckinsey.com/capabilities/tech-and-ai/how-we-help-clients/rewired-in-action/aviva-rewiring-the-insurance-claims-journey-with-ai)
 
 ---
 
-## 1. Why I Read This Case
+## 1. Selection Rationale - Why I Read This article 
 
-Aviva represents one of the most mature real-world deployments of AI  
-in **high-stakes, decision-dense insurance operations**.
+As a consultant working largely with financial and insurance clients, this case immediately drew my interest. Claims processing is one of the most fundamental functions in insurance every insurer handles it, every customer experiences it, yet modernizing it is rarely straightforward. 
+
+Despite being a core process, it is deeply human-driven, rule-heavy, and packed with judgement calls, exceptions, regulatory checks, and legacy workflow baggage. That’s exactly why seeing Aviva successfully rewire this journey with AI stood out to me. It shows what is possible when a traditionally manual, protocol-bound function is redesigned to think and scale differently.
+
 
 This report breaks down:
 
